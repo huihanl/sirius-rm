@@ -19,8 +19,8 @@ export CUBLAS_WORKSPACE_CONFIG=:4096:8
 
 #### If using conda:
 ```
-git clone git@github.com:huihanl/robomimic-hitl.git
-cd robomimic-hitl
+git clone git@github.com:huihanl/sirius-rm.git
+cd sirius-rm
 conda env create -f lflf.yml
 pip install -e .
 ```
