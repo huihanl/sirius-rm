@@ -1,0 +1,8 @@
+{
+    "threshold": 0,
+    "demos_embedding_path": "../policy-lr0.0001_dynamics-lr0.00001.npy",
+    "svm_config": {
+        "nu": 0.1,
+        "kernel": "rbf"
+    }
+}

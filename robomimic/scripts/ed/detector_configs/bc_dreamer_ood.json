@@ -1,0 +1,6 @@
+{
+    "threshold": 0.07,
+    "demos_embedding_path": "/home/huihanliu/policy-lr0.0001_dynamics-lr0.00001.npy",
+    "eval_method": "last",
+    "num_future": 200
+}

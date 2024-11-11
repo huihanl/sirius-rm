@@ -1,0 +1,5 @@
+{
+    "ood_type": "ood",
+    "num_future": 200, 
+    "demos_embedding_path": "/home/huihanliu/policy-lr0.0001_dynamics-lr0.00001.npy"
+}
